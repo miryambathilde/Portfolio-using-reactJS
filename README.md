@@ -1,4 +1,4 @@
-# LearnLive ReactJS Portfolio      
+# ReactJS Portfolio      
 <a>
 <img src= "screenshot.png" width=1200>
 </a>
