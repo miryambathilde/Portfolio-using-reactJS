@@ -1,0 +1,101 @@
+{
+  "main": {
+    "name": "Miryam Bathilde",
+    "occupation": "FullStack Developer",
+    "description": "Passionate about technology and programming, I have been training and developing projects to develop and improve my skills as a web developer for more than a year.",
+    "image": "miryam.png",
+    "bio": "Hi, I'm Miryam, I'm finishing my FullStack Developer studies. I love to develop fully functional web projects with the latest and most current technologies. Although I have not yet had the opportunity to work in a company, I have been putting into practice all the knowledge I'm acquiring, developing projects to improve my skills.",
+    "contactmessage": "Get in touch for further details.",
+    "email": "mbathilde@gmail.com",
+    "phone": "678521456",
+    "address": {
+      "city": "Seville",
+      "state": "Spain"
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/miryambathildecrevillen/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/miryambathilde",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My proficiency in technologies that I used while developing production level applications",
+    "education": [
+      {
+        "school": "CodeHouse Academy",
+        "degree": "Bootcamp FullStack Developer",
+        "graduated": "Oct 2021",
+        "description": "Graduated as FullStack Developer"
+      }
+    ],
+    "work": [
+      {
+        "company": "CodeHouse Academy",
+        "title": "FullStack Developer",
+        "years": "May 2020 - Present",
+        "description": "Node.js, React, Microservices, MySQL, REST APIs."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "Typescript",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Vue",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "Angular",
+        "level": "90%"
+      },
+      {
+        "name": "HTML, CSS",
+        "level": "90%"
+      },
+      {
+        "name": "ASS",
+        "level": "90%"
+      },
+      {
+        "name": "Databases (MySQL, NoSQL)",
+        "level": "90%"
+      },
+      {
+        "name": "Bootstrap, Tailwind",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Portolio profesional",
+        "category": "descripcion",
+        "image": "portfolio-oliver.gif",
+        "url": "https://olivercrevillen.es/"
+      } 
+    ]
+  }
+}
